@@ -1,1 +1,1 @@
-# Binary-Classification
+# Image-Classification
